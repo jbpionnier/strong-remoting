@@ -12,6 +12,7 @@
     "test": "mocha"
   },
   "dependencies": {
+    "easyxml": "~0.0.5",
     "express": "4.x",
     "body-parser": "~1.7.0",
     "debug": "~2.0.0",
